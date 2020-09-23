@@ -39,7 +39,7 @@ Criamos um arquivo de configuração do TypeORM que fica na raiz do projeto -> o
 
 
 ### Modificações de configuração do TypeScript
-No arquivo tsconfig.json.
+No arquivo tsconfig.json.<br/>
 **"experimentalDecorators": true**      /* Enables experimental support for ES7 decorators. */ <br/>
 **"emitDecoratorMetadata": true**        /* Enables experimental support for emitting type metadata for decorators. */<br/>
 **"strictPropertyInitialization": false**  /* Enable strict checking of property initialization in */
