@@ -20,6 +20,11 @@ yarn
 yarn tsc src/index.ts
 yarn tsc //Pode ser assim se criar o arquivo de configuração do typescript.
 ```
+<p>Iniciar projeto</p>
+
+```
+yarn dev:server
+```
 
 ## :book: Detalhes do projeto
 ```bash
